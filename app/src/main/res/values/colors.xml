@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#FFFFFF</color> <!-- Beyaz -->
+    <color name="secondaryColor">#F0F0F0</color> <!-- Pastel Gri -->
+    <color name="accentColor">#ADD8E6</color> <!-- Pastel Mavi (Genel) -->
+    <color name="activeColor">#1E90FF</color> <!-- Seçili Menü için Mavi Ton -->
+    <color name="inactiveColor">#808080</color> <!-- Seçili Olmayan Menü için Gri Ton -->
+    <color name="barBackgroundColor">#FFFFFF</color> <!-- Bar'ın Arka Planı Beyaz -->
+</resources>

@@ -1,0 +1,10 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <!-- Auth Bottom NavBar -->
+    <string name="login">Giriş</string>
+    <string name="register">Kayıt</string>
+    <string name="piyasa">Piyasa</string>
+
+    <!-- Diğer string'leriniz -->
+    <string name="app_name">TarımApp</string>
+</resources>
